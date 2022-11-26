@@ -39,7 +39,7 @@ This contract has 3 different nfts
 ## Quickstart
 
 ```
-git clone https://github.com/PatrickAlphaC/hardhat-nft-fcc
+git clone https://github.com/AnkitNayan83/hardhat-nft-minting.git
 cd hardhat-nft-minting
 yarn
 ```
